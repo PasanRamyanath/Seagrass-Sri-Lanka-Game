@@ -1,5 +1,7 @@
 # Seagrass Sri Lanka Game
 
+Available on: WebGL (browser), Android (app), and Windows (standalone software).
+
 Dive into the vibrant underwater world of Sri Lanka in this immersive game, exploring lush seagrass meadows, colorful corals, and diverse marine life including turtles, fishes, and octopuses. Experience the beauty of the ocean while engaging with a realistic and dynamic environment that brings the sea to life.
 
 ## Instructions for playing
