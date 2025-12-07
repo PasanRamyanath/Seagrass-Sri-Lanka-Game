@@ -1,27 +1,39 @@
 Copyright (c) 2025 I.M.P.J. Ramyanath
 
-This work, including all code, assets, models, textures, documentation, and files contained in this repository, 
-is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+This project, including all code, scripts, scenes, 3D models, textures, audio, 
+documentation, and assets in this repository (“Seagrass-Sri-Lanka-Game”), is 
+licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+===============================================================
+   YOU MUST GIVE CREDIT IF YOU USE, MODIFY, OR SHARE THIS WORK
+===============================================================
+
+Credit must be given as follows:
+“Seagrass Sri Lanka Game by I.M.P.J. Ramyanath (https://github.com/PasanRamyanath/
+Seagrass-Sri-Lanka-Game) — Licensed under CC BY-NC 4.0”
 
 You are free to:
   • Share — copy and redistribute the material in any medium or format
   • Adapt — remix, transform, and build upon the material
 
 Under the following terms:
-  • Attribution — You must give appropriate credit, provide a link to the license, 
-    and indicate if changes were made.
-  • NonCommercial — You may not use the material for commercial purposes. 
-    This includes paid products, commercial research, commercial games, 
-    monetized platforms, or any activity generating revenue.
+  • Attribution — You MUST give appropriate credit to 
+    “I.M.P.J. Ramyanath”, include a link to this repository, and 
+    indicate if changes were made.
+  • NonCommercial — You may NOT use the material for any
+    commercial purpose. This includes selling, paid apps or games,
+    commercial research, monetized content, company projects,
+    or revenue-generating uses of any kind.
+
+Additional Terms:
+  • You may NOT re-license this work under a commercial license.
+  • You may NOT use these assets, scripts, or models to train 
+    commercial AI models without explicit written permission.
+  • You may NOT remove copyright notices.
 
 No additional restrictions:
-  • You may not apply legal terms or technological measures 
-    that legally restrict others from doing anything the license permits.
-
-This license applies to all code, scripts, scenes, 3D models, textures, and assets in this repository 
-unless otherwise stated. No permission is granted for commercial licensing, reselling, or use within 
-commercial game engines or commercial AI model training without explicit written permission 
-from I.M.P.J. Ramyanath.
+  • You may not apply legal terms or technological measures that 
+    legally restrict others from doing anything the license permits.
 
 Full license text:
 https://creativecommons.org/licenses/by-nc/4.0/legalcode
